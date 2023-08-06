@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/%7Brepo-name%7D/static/css/main.67f61e7f.css",
+    "main.js": "/%7Brepo-name%7D/static/js/main.9570d876.js",
+    "static/js/787.fb771931.chunk.js": "/%7Brepo-name%7D/static/js/787.fb771931.chunk.js",
+    "static/media/bt.png": "/%7Brepo-name%7D/static/media/bt.3c6e64a7d59e76f549fa.png",
+    "static/media/web.png": "/%7Brepo-name%7D/static/media/web.b53ffceb92e0da6856b5.png",
+    "static/media/sql.png": "/%7Brepo-name%7D/static/media/sql.5a13e254fb0c5ae14652.png",
+    "static/media/wilbert.png": "/%7Brepo-name%7D/static/media/wilbert.99cd6634e010267a1958.png",
+    "static/media/project3.png": "/%7Brepo-name%7D/static/media/project3.6cc11483afdad81c8460.png",
+    "static/media/python.png": "/%7Brepo-name%7D/static/media/python.82efb64f8698a267f8bf.png",
+    "static/media/project2.png": "/%7Brepo-name%7D/static/media/project2.c25b82144deccce812dc.png",
+    "static/media/CodeNinja.jpeg": "/%7Brepo-name%7D/static/media/CodeNinja.07d8279ab6399d6c3e5c.jpeg",
+    "static/media/project1.png": "/%7Brepo-name%7D/static/media/project1.23e2c482a9d6f4dbf42b.png",
+    "static/media/690logo.png": "/%7Brepo-name%7D/static/media/690logo.fc6b8b3ab76d87c34749.png",
+    "static/media/react.png": "/%7Brepo-name%7D/static/media/react.e648a71158884495e955.png",
+    "static/media/html.png": "/%7Brepo-name%7D/static/media/html.12fb7c909610c213d9c7.png",
+    "static/media/css.png": "/%7Brepo-name%7D/static/media/css.8a9cb64261d07da57f4f.png",
+    "static/media/js.png": "/%7Brepo-name%7D/static/media/js.7f8751632b42a9932c15.png",
+    "static/media/revicons.eot": "/%7Brepo-name%7D/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/%7Brepo-name%7D/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/%7Brepo-name%7D/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/%7Brepo-name%7D/index.html",
+    "main.67f61e7f.css.map": "/%7Brepo-name%7D/static/css/main.67f61e7f.css.map",
+    "main.9570d876.js.map": "/%7Brepo-name%7D/static/js/main.9570d876.js.map",
+    "787.fb771931.chunk.js.map": "/%7Brepo-name%7D/static/js/787.fb771931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67f61e7f.css",
+    "static/js/main.9570d876.js"
+  ]
+}
